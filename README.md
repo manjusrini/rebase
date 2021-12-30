@@ -1,5 +1,9 @@
 # rebase
 
 This is cloning rebase
-This is updated from master
+<<<<<<< HEAD
+This is upated from master
 This rebase
+=======
+
+>>>>>>> tejesh
